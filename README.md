@@ -20,7 +20,7 @@ Since this is just an editing, it requires the full [Cherry Tree](https://github
 ### LINUX SYSTEM
 1. Back up the cons.py file from the /usr/share/cherrytree/modules/ directory on your system. 
 2. Copy all the files from the glade folder to the /usr/share/cherrytree/glade/ directory on your system.
-3. Copy the cons.py file from the modules folder to the /usr/share/cherrytree/modules/ directory and confirm the overwriting action.
+3. Copy the cons.py file from the modules folder to the /usr/share/cherrytree/modules/ directory on your system and confirm the overwriting action.
 
 NOTE: You will need root privilege for this.
 
