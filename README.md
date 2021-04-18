@@ -1,4 +1,4 @@
-# ct-icons
+# CherryTree is now on version 0.99, and this editing was made for version 0.39 so it won't work for new versions!
 
 ## DESCRIPTION
 This is a very simple editing to the cons.py file to add more icons to the Node Icon List of the Cherry Tree note-taking app.
